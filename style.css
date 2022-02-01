@@ -1,3 +1,9 @@
 .name{
     background-color: darkcyan;
+    position: absolute;
+    width: 100%;
+}
+body{
+    margin-left: 0;
+    margin-right: 0;
 }
