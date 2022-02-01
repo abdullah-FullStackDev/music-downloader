@@ -1,7 +1,10 @@
-.name{
+header{
     background-color: darkcyan;
-    position: absolute;
+    text-align: center;
     width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
 }
 body{
     margin-left: 0;
