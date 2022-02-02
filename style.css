@@ -9,6 +9,10 @@ header{
 body{
 margin-right: 0;
 margin-left: 0;
+background-image:url();
+ z-index: 1;
+  background-size: cover;
+  background-attachment: fixed;
 }
 .color-1{
     background-color: yellow;
@@ -54,4 +58,18 @@ margin-left: 0;
 }
 .f-size{
     font-size: 20px;
+}
+.button{
+    margin: 10px;
+    width: 40px;
+    height: 40px;
+}
+.button-1{
+    margin: 10px;
+    margin-left: 43%;
+    width: 40px;
+    height: 40px;
+}
+.wi-100{
+    width: 100%;
 }
