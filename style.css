@@ -7,14 +7,13 @@ header{
     left: 0;
 }
 body{
-    margin-left: 0;
-    margin-right: 0;
+margin-right: 0;
+margin-left: 0;
 }
 .color-1{
     background-color: yellow;
     width: 80%;
     height: 1px;
-    margin-top: 0;
 }
 .color-2{
     background-color: cyan;
@@ -28,4 +27,31 @@ body{
 .t-center{
     text-align: center;
 }
-
+.container{
+    border: 1px solid red;
+    width: 95%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.container-2{
+    border: 1px solid #000;
+    margin: 1%;
+}
+.music{
+    width: 95%;
+    margin-left: 2%;
+    border-radius: 10px;
+}
+.m-auto{
+    margin: auto;
+}
+.form-control{
+    margin: auto;
+}
+.d-flex{
+    display: flex;
+    flex-direction: column;
+}
+.f-size{
+    font-size: 20px;
+}
