@@ -10,3 +10,17 @@ body{
     margin-left: 0;
     margin-right: 0;
 }
+.color-1{
+    background-color: yellow;
+    width: 80%;
+    height: 1px;
+}
+.color-2{
+    background-color: cyan;
+    width: 90%;
+    height: 1px;
+}
+.color-3{
+    background-color: red;
+    height: 1px;
+}
