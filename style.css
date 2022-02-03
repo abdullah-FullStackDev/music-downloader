@@ -77,3 +77,17 @@ background-image:url();
 .container-3{
     background-color: gainsboro;
 }
+#s-image{
+    border-radius: 50%;
+   height: 40px;
+  }
+  footer{
+      background-color: rgba(39, 31, 31, 0.342);
+      text-align: center;
+  }
+  .g-p-m{
+      margin-top: 1%;
+  }
+  .c-o-p{
+   color: rgba(39, 31, 31, 0.342);
+  }
