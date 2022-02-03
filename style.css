@@ -82,8 +82,9 @@ background-image:url();
    height: 40px;
   }
   footer{
-      background-color: rgba(39, 31, 31, 0.342);
+      background-color: #271f1f57;
       text-align: center;
+      margin-bottom: 0;
   }
   .g-p-m{
       margin-top: 1%;
