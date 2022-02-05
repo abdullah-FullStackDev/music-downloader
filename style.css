@@ -9,7 +9,6 @@ header{
 body{
 margin-right: 0;
 margin-left: 0;
-background-image:url();
  z-index: 1;
   background-size: cover;
   background-attachment: fixed;
@@ -91,4 +90,9 @@ background-image:url();
   }
   .c-o-p{
    color: rgba(39, 31, 31, 0.342);
+  }
+  .container-4{
+    border: 1px solid #000;
+    margin: 1%;
+    height: auto;
   }
