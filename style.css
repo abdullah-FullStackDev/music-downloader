@@ -1,10 +1,9 @@
 header{
     background-color: darkcyan;
-    text-align: center;
     width: 100%;
     position: absolute;
     top: 0;
-    left: 0;
+    text-align: center;
 }
 body{
 margin-right: 0;
@@ -70,11 +69,12 @@ margin-left: 0;
     height: 40px;
 }
 .wi-100{
-    width: 100%;
+    width: 50%;
     margin-bottom: 0;
 }
 .container-3{
     background-color: gainsboro;
+    width: 50%;
 }
 #s-image{
     border-radius: 50%;
