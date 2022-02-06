@@ -113,9 +113,20 @@ margin-left: 0;
       width: 20%;
       margin-top: 10px;
   }
-   .m-top-2{
-       margin-top: 100px;
+   .container-6{
+    border: 1px solid #000;
+    width: 40%;
    }
-   .hr-1{
-       margin-top: 50px;
+   .op{
+       opacity: 0.5;
+   }   
+   .f-size-2{
+       font-size: 50px;
+   }
+   .m-top-2{
+       margin-top: 60px;
+       margin-bottom: 60px;
+   }
+   .m-top-3{
+       margin-top: 30px;
    }
